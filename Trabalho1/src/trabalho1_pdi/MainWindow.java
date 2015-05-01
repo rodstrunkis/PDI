@@ -18,6 +18,7 @@ public class MainWindow extends javax.swing.JFrame {
         initComponents();
     }
     
+    /*Letra A*/
      public static BufferedImage YUV (){
         try {
             //Cria o buffer da imagem
@@ -47,6 +48,7 @@ public class MainWindow extends javax.swing.JFrame {
         }
     }
     
+    /*Letra B*/
     public static BufferedImage Red (){
         try {
             //Cria o buffer da imagem
@@ -128,6 +130,7 @@ public class MainWindow extends javax.swing.JFrame {
         }
     }
     
+    /*Letra C*/
     public static BufferedImage Negativo (){
         try {
             //Cria o buffer da imagem
